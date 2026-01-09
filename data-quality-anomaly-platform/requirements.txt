@@ -11,3 +11,10 @@ openpyxl
 PyPDF2 
 tabula-py
 pydantic
+scipy
+kafka-python
+requests
+pytest
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
