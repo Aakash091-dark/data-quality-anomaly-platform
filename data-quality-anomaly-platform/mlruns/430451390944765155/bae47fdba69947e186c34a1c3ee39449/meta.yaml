@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Aakash/OneDrive/Desktop/data-quality-anomaly-platform/data-quality-anomaly-platform/mlruns/430451390944765155/bae47fdba69947e186c34a1c3ee39449/artifacts
+end_time: 1767917500963
+entry_point_name: ''
+experiment_id: '430451390944765155'
+lifecycle_stage: active
+run_id: bae47fdba69947e186c34a1c3ee39449
+run_name: burly-vole-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767917496534
+status: 3
+tags: []
+user_id: Aakash

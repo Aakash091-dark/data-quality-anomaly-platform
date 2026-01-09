@@ -1,0 +1,15 @@
+creation_timestamp: 1767917462685
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1767917462685
+model_id: m-2e3e0a12756e4591b558ef5e458557a0
+name: data_quality_anomaly_model
+run_id: e07c787b341b42329813e35b1ee000c1
+run_link: null
+source: models:/m-2e3e0a12756e4591b558ef5e458557a0
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Aakash/OneDrive/Desktop/data-quality-anomaly-platform/data-quality-anomaly-platform/mlruns/430451390944765155/models/m-2e3e0a12756e4591b558ef5e458557a0/artifacts
+user_id: null
+version: 1

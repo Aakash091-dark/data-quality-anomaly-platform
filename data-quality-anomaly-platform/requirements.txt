@@ -1,0 +1,13 @@
+fastapi
+uvicorn 
+pandas 
+numpy 
+scikit-learn 
+mlflow 
+shap 
+torch
+python-multipart 
+openpyxl 
+PyPDF2 
+tabula-py
+pydantic

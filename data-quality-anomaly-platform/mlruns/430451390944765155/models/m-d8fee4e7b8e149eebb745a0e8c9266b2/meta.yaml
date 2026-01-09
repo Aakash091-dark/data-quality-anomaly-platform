@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Aakash/OneDrive/Desktop/data-quality-anomaly-platform/data-quality-anomaly-platform/mlruns/430451390944765155/models/m-d8fee4e7b8e149eebb745a0e8c9266b2/artifacts
+creation_timestamp: 1767917496716
+experiment_id: '430451390944765155'
+last_updated_timestamp: 1767917500821
+model_id: m-d8fee4e7b8e149eebb745a0e8c9266b2
+model_type: null
+name: anomaly_model
+source_run_id: bae47fdba69947e186c34a1c3ee39449
+status: 2
+status_message: null
